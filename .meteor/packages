@@ -24,3 +24,7 @@ session
 coffeescript
 iron:router
 sacha:spin
+stylus
+ian:accounts-ui-bootstrap-3
+npm-bcrypt@0.8.7
+accounts-password
